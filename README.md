@@ -8,11 +8,13 @@ Attention: flaws found at present:
 1. R1 and R2 of all versions of boards was 10K by default. But f1c100s can't be 10K, it needs 200K. It is possible that 10K will lead to abnormal operation of the chip!
 2. The ea3036qdr input power supply of version 1 and version 2 is not equipped with capacitor, which may burn ea3036qdr in case of large power ripple
 
-![bolopi_F1 top](https://raw.githubusercontent.com/VeiLiang/BoloPi_PCB/master/bolopi_F1_0.png)
+![bolopi_F1 3d view](https://raw.githubusercontent.com/VeiLiang/BoloPi_PCB/master/BoLoPi-F1_V4_3D.png)
 ---
-![bolopi_F1 buttom](https://raw.githubusercontent.com/VeiLiang/BoloPi_PCB/master/bolopi_F1_1.png)
+![bolopi_F1 in kind](https://raw.githubusercontent.com/VeiLiang/BoloPi_PCB/master/BoLoPi-F1_V4_Real.jpg)
 ---
-![bolopi_F1 3d view](https://raw.githubusercontent.com/VeiLiang/BoloPi_PCB/master/bolopi_F1_2.png)
+![bolopi_F1 2d view](https://raw.githubusercontent.com/VeiLiang/BoloPi_PCB/master/BoLoPi-F1_V4_2D.png)
 ---
-![bolopi_F1 in kind](https://raw.githubusercontent.com/VeiLiang/BoloPi_PCB/master/bolopi_F1_3.png)
+![bolopi_F1 top_layer](https://raw.githubusercontent.com/VeiLiang/BoloPi_PCB/master/BoLoPi-F1_V4_Top.png)
+---
+![bolopi_F1 buttom_layer](https://raw.githubusercontent.com/VeiLiang/BoloPi_PCB/master/BoLoPi-F1_V4_Buttom.png)
 ---
